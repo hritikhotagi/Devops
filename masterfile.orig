@@ -1,0 +1,6 @@
+This is master
+<<<<<<< HEAD
+This is folder two
+=======
+This is folder one
+>>>>>>> bcc54701190c01e174552c32d35c7538903469ba
